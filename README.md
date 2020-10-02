@@ -23,10 +23,7 @@
 <a href="https://github.com/ikp-773">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773"&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="ikp-773"'s GitHub Stats" />
 </a> 
-<a href="https://github.com/ikp-773"">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773"&show_icons=true&theme=tokyonight&icon_color=6392DF&&layout=compacthide=prs" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/ikp-773)
  ---
  
 <img align="right" alt="GIF" src="https://github4life.herokuapp.com/ikp-773.gif" />
