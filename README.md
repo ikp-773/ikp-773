@@ -8,6 +8,6 @@
 
  ---
  
-<alt=GIF src="https://github4life.herokuapp.com/ikp-773"/>
+<img align="center" alt="GIF" src="https://github4life.herokuapp.com/ikp-773.gif"/>
 
 
