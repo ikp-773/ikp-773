@@ -6,10 +6,10 @@
 
 - 🌱 I’m currently mastering **Flutter**
 - 💬 Ask me about **anything.**
-- 📫 How to reach me: 
-          - **Twitter** 
-          - **Instagram**
-          - **Linkedin**
+- 📫 How to reach me:
+       - **Twitter** 
+       - **Instagram**
+       - **Linkedin**
          
 ## Languages 📚 
 
