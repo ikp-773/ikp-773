@@ -4,7 +4,9 @@
 - 🌱 I’m currently mastering **text**
 - 💬 Ask me about **anything.**
 - 📫 How to reach me: 
-
+- **Twitter** 
+- **Instagram**
+- **Linkedin** 
 
  ---
  
