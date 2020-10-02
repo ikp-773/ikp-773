@@ -4,9 +4,16 @@
 - 🌱 I’m currently mastering **text**
 - 💬 Ask me about **anything.**
 - 📫 How to reach me: 
-- **Twitter** 
-- **Instagram**
-- **Linkedin** 
+          - **Twitter** 
+          - **Instagram**
+          - **Linkedin** 
+##  GitHub Stats 🏆
+<a href="https://github.com/ikp-773">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773"&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="ikp-773"'s GitHub Stats" />
+</a> 
+<a href="https://github.com/ikp-773"">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773"&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
+</a>
 
  ---
  
