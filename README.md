@@ -1,9 +1,10 @@
 <div align="center">
+<img align="right" alt="GIF" height="300px" src="https://blog.insaid.co/wp-content/uploads/2020/01/Coding.gif"/>
 
 # Hey There <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px">, KP here!
-<img align="right" alt="GIF" height="250px" src="https://blog.insaid.co/wp-content/uploads/2020/01/Coding.gif" />
 
-<div>
+![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
+</div>
 
 - 🌱 I’m currently mastering **text**
 - 💬 Ask me about **anything.**
