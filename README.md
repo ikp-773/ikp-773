@@ -16,8 +16,6 @@
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 
-## Frameworks 🖥
-
 ##  GitHub Stats 🏆
 <a href="https://github.com/ikp-773">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773"&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="ikp-773"'s GitHub Stats" />
@@ -28,6 +26,6 @@
 
  ---
  
-<img align="center" alt="GIF" src="https://github4life.herokuapp.com/ikp-773.gif"/>
+<img align="right" alt="GIF" src="https://github4life.herokuapp.com/ikp-773.gif" height="300px" />
 
 
