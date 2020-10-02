@@ -7,6 +7,7 @@
 
 
  ---
-<alt="GIF" height="400px" src="https://github4life.herokuapp.com/ikp-773"/>
+ 
+<src="https://github4life.herokuapp.com/ikp-773"/>
 
 
