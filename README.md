@@ -31,7 +31,6 @@
 <details>
        <summary>ikp-771's Wakatime Stats</summary>
        <!--START_SECTION:waka-->
-       
        <!--END_SECTION:waka-->
 </details>
 
