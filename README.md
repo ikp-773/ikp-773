@@ -28,6 +28,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
 
+<details>
+       <summary>ikp-771's Wakatime Stats</summary>
+       <!--START_SECTION:waka-->
+       
+       <!--END_SECTION:waka-->
+</details>
+
  ---
  
 <img align="right" alt="GIF" src="https://github4life.herokuapp.com/ikp-773.gif" />
