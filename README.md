@@ -1,7 +1,9 @@
 <div align="center">
 <img align="right" alt="GIF" height="300px" src="https://blog.insaid.co/wp-content/uploads/2020/01/Coding.gif"/>
        
-![](https://visitor-badge.glitch.me/badge?page_id=ikp-773)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ikp-773)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3893%20lines%20of%20code-blue)
 
 # Hey There <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px">, KP here!
 </div>
@@ -31,7 +33,6 @@
 </a>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
  ---
