@@ -32,7 +32,6 @@
 <details>
        <summary>ikp-773</summary>
        <!--START_SECTION:waka-->
-       
        <!--END_SECTION:waka-->
 </details>
 
