@@ -33,9 +33,9 @@
        <summary>ikp-773</summary>
        
        <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-461412%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463404%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
