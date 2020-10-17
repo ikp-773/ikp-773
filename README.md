@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-311156%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-464176%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,089 Contributions in the Year 2020
+> 🏆 2,092 Contributions in the Year 2020
  > 
 > 📦 152.7 kB Used in Github's Storage 
  > 
@@ -85,19 +85,27 @@ C                        4 hrs 37 mins       ███░░░░░░░░�
 YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48% 
 C++                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
-🔥 Editors: 
-Android Studio           12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   41.79% 
-Chrome                   12 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   41.65% 
-Sublime Text             4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
-VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
-PyCharmCore              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+💻 Operating System: 
+Mac                      30 hrs 1 min        █████████████████████████   100.0%
 
 ```
-<!--
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     9 repos             ████████░░░░░░░░░░░░░░░░░   32.14% 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
 **Timeline**
 
-![Chart not found](https://github.com/ikp-773/ikp-773/blob/master/charts/bar_graph.png)
--->
+![Chart not found](https://github.com/ikp-773/ikp-773/blob/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 </details>
