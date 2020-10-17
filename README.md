@@ -36,13 +36,13 @@
        <summary>My Awesome Stats</summary>
        
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-460156%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306156%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,100 Contributions in the Year 2020
+> 🏆 2,105 Contributions in the Year 2020
  > 
 > 📦 152.8 kB Used in Github's Storage 
  > 
