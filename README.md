@@ -24,7 +24,7 @@
 ##  Stats 🏆
 
 <a href="https://github.com/ikp-773">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lal-jr&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="ikp-773's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="ikp-773's GitHub Stats" />
 </a> 
 <a href="https://github.com/ikp-773">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
@@ -33,7 +33,7 @@
 ---
 
 <details>
-       <summary>My Other Stats</summary>
+       <summary>My Awesome Stats</summary>
        
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
@@ -93,11 +93,11 @@ VS Code                  18 mins             ░░░░░░░░░░░�
 PyCharmCore              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 ```
-
+<!--
 **Timeline**
 
-![Chart not found](https://github.com/ikp-773/ikp-773/blob/master/charts/bar_graph.png) 
-
+![Chart not found](https://github.com/ikp-773/ikp-773/blob/master/charts/bar_graph.png)
+-->
 
 <!--END_SECTION:waka-->
 </details>
