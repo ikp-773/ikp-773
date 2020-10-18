@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-312525%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-308582%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,117 Contributions in the Year 2020
+> 🏆 2,137 Contributions in the Year 2020
  > 
-> 📦 152.8 kB Used in Github's Storage 
+> 📦 152.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -56,9 +56,9 @@
 
 ```text
 🌞 Morning    73 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
-🌆 Daytime    205 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
-🌃 Evening    453 commits    █████████░░░░░░░░░░░░░░░░   39.29% 
-🌙 Night      422 commits    █████████░░░░░░░░░░░░░░░░   36.6%
+🌆 Daytime    212 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.39% 
+🌃 Evening    466 commits    ██████████░░░░░░░░░░░░░░░   40.42% 
+🌙 Night      402 commits    ████████░░░░░░░░░░░░░░░░░   34.87%
 
 ```
 📅 **I'm Most Productive on Sunday** 
