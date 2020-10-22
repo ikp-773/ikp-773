@@ -101,11 +101,11 @@ Java                     2 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
+<!--
+**Timeline**-->
+<!--
 ![Chart not found](https://github.com/ikp-773/ikp-773/blob/master/charts/bar_graph.png) 
-
+-->
 
 <!--END_SECTION:waka-->
 </details>
