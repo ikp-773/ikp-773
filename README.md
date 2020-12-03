@@ -14,7 +14,7 @@
        - **Linkedin**
          
 ## Languages 📚 
-
+![Dart](http://img.shields.io/badge/-Dart-000?style=flat&logo=dart&logoColor=2BB7F6)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
@@ -36,7 +36,6 @@
        <summary>My Awesome Stats</summary>
        
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-861377%20lines%20of%20code-blue)
 
@@ -73,37 +72,6 @@ Saturday     227 commits    ████░░░░░░░░░░░░░�
 Sunday       220 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.56%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C                        1 hr 27 mins        ███████████████░░░░░░░░░░   59.93% 
-HTML                     41 mins             ███████░░░░░░░░░░░░░░░░░░   28.64% 
-CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
-
-💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     13 repos            █████████░░░░░░░░░░░░░░░░   39.39% 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ikp-773/ikp-773/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
