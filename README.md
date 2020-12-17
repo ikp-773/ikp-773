@@ -36,13 +36,13 @@
        <summary>My Awesome Stats</summary>
        
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-869643%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-845346%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 2,547 Contributions in the Year 2020
  > 
-> 📦 164.1 kB Used in Github's Storage 
+> 📦 164.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
