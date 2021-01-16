@@ -40,7 +40,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 64 Contributions in the Year 2021
+> 🏆 67 Contributions in the Year 2021
  > 
 > 📦 164.9 kB Used in Github's Storage 
  > 
@@ -92,7 +92,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ikp-773/ikp-773/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ikp-773/ikp-773/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
