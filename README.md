@@ -36,17 +36,17 @@
        <summary>My Awesome Stats</summary>
        
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137490%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137677%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 245 Contributions in the Year 2021
+> 🏆 253 Contributions in the Year 2021
  > 
 > 📦 165.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 14 Private Repositories  
  > 
@@ -83,8 +83,8 @@ Sunday       237 commits    ████░░░░░░░░░░░░░�
 ```text
 Dart                     18 repos            ███████████░░░░░░░░░░░░░░   43.9% 
 Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
 Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
