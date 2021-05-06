@@ -3,17 +3,22 @@
        
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ikp-773)
 
-# Hey There <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px">, KP here!
+# Hello! Myself Abhijith Kp <img src="https://camo.githubusercontent.com/3380eba6940f896a220ad34e83fc3d245dfcc3a7c8d0952be68e24b48b0cc5f8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30362f39372f39653036393739393038323862623833313962653831303563393339623130382e676966" width="29px">
+
+
+I am 
 </div>
 
-- 🌱 I’m currently mastering **Flutter**
-- 💬 Ask me about **anything.**
+## About Me👨‍💻
+
+- 🛠 I’m currently mastering <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">**Web &**  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">**Flutter**
+- 👥 I’m looking to collaborate on Cool Projects/Products.
 - 📫 How to reach me:
-       - **Twitter** 
-       - **Instagram**
-       - **Linkedin**
+  - [![](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/ikp_773) 
+    - [![](https://badges.aleen42.com/src/instagram.svg)](https://twitter.com/ikp_773)   - - **Instagram**: <a href="https://www.instagram.com/ikp_773/">@ikp_773</a>
+  - **Linkedin**: <a href="https://www.linkedin.com/in/abhijith-kp-ab2a3916b/">Abhijith KP</a>
          
-## Languages 📚 
+## Languages and Frameworks📚 
 ![Dart](http://img.shields.io/badge/-Dart-000?style=flat&logo=dart&logoColor=2BB7F6)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -33,15 +38,16 @@
 </a>
 
 ---
+##  Streaks 🔥
 
-<details>
-       <summary>Streaks 🔥</summary>
-              <br />
-              <a href="https://github.com/ikp-773">
+<a href="https://github.com/ikp-773">
                      <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ikp-773&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true&icon_color=6392DF" />                          
               </a>
-</details>
 
+
+---
+<p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ikp-773&column=7"  /></a> </p>
 ---
 
 <details>
@@ -87,10 +93,7 @@ Sunday       233 commits    ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-```
 
 **I Mostly Code in Dart** 
 
@@ -113,7 +116,10 @@ Java                     2 repos             █░░░░░░░░░░�
 </details>
 
  ---
- 
-<img align="right" alt="GIF" src="https://github4life.herokuapp.com/ikp-773.gif" />
-
+ ![](https://visitor-badge.glitch.me/badge?page_id=ikp-773)
+[![Repos Badge](https://badges.pufler.dev/repos/ikp-773)](https://www.abhijithkp.me)
+[![Commits Badge](https://badges.pufler.dev/commits/all/ikp-773)](https://www.abhijithkp.me)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/ikp-773)](https://www.abhijithkp.me)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ikp-773)](https://www.abhijithkp.me)
+[![Commits Badge](https://badges.pufler.dev/commits/weekly/ikp-773)](https://www.abhijithkp.me)
 
