@@ -25,16 +25,18 @@
 <br />
 
 <a href="https://github.com/ikp-773">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true" alt="ikp-773's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773&show_icons=true&theme=bear&icon_color=6392DF&hide=prs&hide_border=true" alt="ikp-773's GitHub Stats" />
 </a> 
 <a href="https://github.com/ikp-773">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773&layout=compact&show_icons=true&theme=bear&icon_color=6392DF&hide=prs&hide_border=true" />
 </a>
 
 ---
 ##  Streaks 🔥
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikp-773&theme=synthwave&hide_border=true&fire=DD2727&border=DD2727&stroke=DD2727&ring=B32CDD&sideNums=B3DADD&currStreakLabel=DD7A18&sideLabels=57DD3B&dates=DDAAC2&background=020210)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikp-773&theme=bear&hide_border=true&fire=DD2727&stroke=DD2727&ring=A41FAE&sideNums=B3DADD&currStreakLabel=DD7A18&sideLabels=57DD3B&dates=A41FAE)
+
+
 
 
 ---
@@ -118,13 +120,3 @@ Java                     2 repos             █░░░░░░░░░░�
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
----
-<p align="left">
-<a href="https://dev.to/ikp_773" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ikp_773" height="30" width="40" /></a>
-<a href="https://twitter.com/ikp_773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ikp_773" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhijith-kp-ab2a3916b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="abhijith-kp-ab2a3916b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12860133/abhijith-kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="12860133/abhijith-kp" height="30" width="40" /></a>
-<a href="https://fb.com/abhijith.kp.146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="abhijith.kp.146" height="30" width="40" /></a>
-<a href="https://instagram.com/ikp_773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ikp_773" height="30" width="40" /></a>
-<a href="https://discord.gg/ikp_773#5175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="ikp_773#5175" height="30" width="40" /></a>
-</p>
