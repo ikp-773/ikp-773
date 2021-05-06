@@ -25,18 +25,16 @@
 <br />
 
 <a href="https://github.com/ikp-773">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true" alt="ikp-773's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773&show_icons=true&theme=synthwave&icon_color=6392DF&hide=prs&hide_border=true" alt="ikp-773's GitHub Stats" />
 </a> 
 <a href="https://github.com/ikp-773">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikp-773&layout=compact&show_icons=true&theme=synthwave&icon_color=6392DF&hide=prs&hide_border=true" />
 </a>
 
 ---
 ##  Streaks 🔥
 
-<a href="https://github.com/ikp-773">
-                     <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ikp-773&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true&icon_color=6392DF" />                          
-              </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikp-773&theme=synthwave&fire=DD2727&border=DD2727&stroke=DD2727&ring=B32CDD&sideNums=B3DADD&currStreakLabel=DD7A18&sideLabels=57DD3B&dates=DDAAC2)](https://git.io/streak-stats)
 
 
 ---
