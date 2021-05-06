@@ -41,7 +41,7 @@
 
 ---
 <p align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ikp-773&column=7"  /></a> </p>
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ikp-773&theme=juicyfresh&no-bg=true&no-frame=true&row=1"  /></a> </p>
    
 ---
 
