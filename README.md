@@ -23,6 +23,8 @@
 
 ##  Stats 🏆
 
+<br />
+
 <a href="https://github.com/ikp-773">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikp-773&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true" alt="ikp-773's GitHub Stats" />
 </a> 
@@ -34,6 +36,7 @@
 
 <details>
        <summary>Streaks 🔥</summary>
+              <br />
               <a href="https://github.com/ikp-773">
                      <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ikp-773&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true&icon_color=6392DF" />                          
               </a>
