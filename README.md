@@ -36,12 +36,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikp-773&theme=bear&hide_border=true&fire=DD2727&stroke=DD2727&ring=A41FAE&sideNums=B3DADD&currStreakLabel=DD7A18&sideLabels=57DD3B&dates=A41FAE)
 
-
-
-
 ---
+
 <p align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ikp-773&theme=juicyfresh&no-bg=true&no-frame=true&row=1"  /></a> </p>
+   <a href=""><img width=800 src="https://github-profile-trophy.vercel.app/?username=ikp-773&theme=juicyfresh&no-bg=true&no-frame=true&row=1"  /></a> </p>
    
 ---
 
