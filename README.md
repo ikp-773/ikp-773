@@ -3,7 +3,7 @@
        
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ikp-773)
 
-# :octocat: Hello! Myself <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ikp-773" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ikp-773?trk=profile-badge">Abhijith Kp</a></div> <img src="https://camo.githubusercontent.com/3380eba6940f896a220ad34e83fc3d245dfcc3a7c8d0952be68e24b48b0cc5f8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30362f39372f39653036393739393038323862623833313962653831303563393339623130382e676966" width="29px">
+# :octocat: Hello! Myself Abhijith Kp <img src="https://camo.githubusercontent.com/3380eba6940f896a220ad34e83fc3d245dfcc3a7c8d0952be68e24b48b0cc5f8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30362f39372f39653036393739393038323862623833313962653831303563393339623130382e676966" width="29px">
 
 ![](https://img.shields.io/badge/Apple-MacBook_Pro_2011-999999?style=for-the-badge&logo=apple&logoColor=white)
 </div>
@@ -14,7 +14,7 @@
 - 👥 I’m looking to collaborate on Cool Projects/Products.
 - 📫 How to reach me:
    
-   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith-kp-ab2a3916b/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ikp_773/)  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ikp_773)   [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919562433164)
+   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikp-773/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ikp_773/)  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ikp_773)   [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919562433164)
   
          
 <!-- ## Languages and Frameworks📚 
@@ -121,4 +121,3 @@ C++                      3 repos             █░░░░░░░░░░�
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
