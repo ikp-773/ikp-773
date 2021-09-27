@@ -56,7 +56,7 @@
 
 > 🏆 655 Contributions in the Year 2021
  > 
-> 📦 184.2 kB Used in GitHub's Storage 
+> 📦 184.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -109,7 +109,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ikp-773/ikp-773/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2021
+ Last Updated on 27/09/2021
 <!--END_SECTION:waka-->
 </details>
 
