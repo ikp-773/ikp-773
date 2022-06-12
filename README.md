@@ -87,11 +87,6 @@ Sunday       101 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -109,7 +104,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ikp-773/ikp-773/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 06:27:33 UTC
+ Last Updated on 12/06/2022 12:34:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
