@@ -48,7 +48,7 @@
 <br />
        
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -56,13 +56,13 @@
 
 > 🏆 208 Contributions in the Year 2022
  > 
-> 📦 243.8 kB Used in GitHub's Storage 
+> 📦 274.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 54 Public Repositories 
+> 📜 55 Public Repositories 
  > 
-> 🔑 29 Private Repositories  
+> 🔑 28 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -104,7 +104,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ikp-773/ikp-773/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 18:30:14 UTC
+ Last Updated on 17/06/2022 01:30:33 UTC
 <!--END_SECTION:waka-->
 </details>
 
