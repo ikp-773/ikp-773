@@ -5,7 +5,7 @@
 
 # :octocat: Hello! Myself Abhijith Kp <img src="https://camo.githubusercontent.com/3380eba6940f896a220ad34e83fc3d245dfcc3a7c8d0952be68e24b48b0cc5f8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30362f39372f39653036393739393038323862623833313962653831303563393339623130382e676966" width="29px">
 
-![](https://img.shields.io/badge/Apple-MacBook_Pro_2011-999999?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Apple-Mac_Mini_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 </div>
 
 ## About Me👨‍💻
