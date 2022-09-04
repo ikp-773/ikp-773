@@ -48,7 +48,7 @@
 <br />
        
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-931%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -64,6 +64,29 @@
  > 
 > 🔑 30 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+🌆 Daytime    165 commits    ██████░░░░░░░░░░░░░░░░░░░   23.71% 
+🌃 Evening    215 commits    ███████░░░░░░░░░░░░░░░░░░   30.89% 
+🌙 Night      231 commits    ████████░░░░░░░░░░░░░░░░░   33.19%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
+Tuesday      75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+Wednesday    83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
+Thursday     179 commits    ██████░░░░░░░░░░░░░░░░░░░   25.72% 
+Friday       110 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
+Saturday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Sunday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22%
+
+```
+
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -81,7 +104,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ikp-773/ikp-773/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 12:45:53 UTC
+ Last Updated on 04/09/2022 18:31:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
