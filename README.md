@@ -48,7 +48,7 @@
 <br />
        
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -104,7 +104,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ikp-773/ikp-773/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 18:43:16 UTC
+ Last Updated on 09/09/2022 02:21:18 UTC
 <!--END_SECTION:waka-->
 </details>
 
