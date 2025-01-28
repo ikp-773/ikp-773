@@ -1,7 +1,7 @@
 <div align="center">
 <img align="right" alt="GIF" height="300px" src="https://blog.insaid.co/wp-content/uploads/2020/01/Coding.gif"/>
        
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ikp-773)
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=ikp-773)-->
 
 # :octocat: Hello! Myself Abhijith Kp <img src="https://camo.githubusercontent.com/3380eba6940f896a220ad34e83fc3d245dfcc3a7c8d0952be68e24b48b0cc5f8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30362f39372f39653036393739393038323862623833313962653831303563393339623130382e676966" width="29px">
 
@@ -11,6 +11,7 @@
 ## About Me👨‍💻
 
 - 🛠  I’m currently mastering <img src="https://img.icons8.com/color/23/000000/web-components.png"/> **Full Stack Development** with React.js and Node.js .
+- 🤖 Passionate about AI/ML.
 - 👥 I’m looking to collaborate on Cool Projects/Products.
 - 📫 How to reach me:
    
@@ -35,10 +36,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikp-773&theme=bear&hide_border=true&fire=DD2727&stroke=DD2727&ring=A41FAE&sideNums=B3DADD&currStreakLabel=DD7A18&sideLabels=57DD3B&dates=A41FAE)
 
----
+<!------->
 
-<p align="center">
-   <a href=""><img width=800 src="https://github-profile-trophy.vercel.app/?username=ikp-773&theme=juicyfresh&no-bg=true&no-frame=true&row=1"  /></a> </p>
+<!--<p align="center">-->
+<!--   <a href=""><img width=800 src="https://github-profile-trophy.vercel.app/?username=ikp-773&theme=juicyfresh&no-bg=true&no-frame=true&row=1"  /></a> </p>-->
    
 ---
 
@@ -94,4 +95,3 @@ C++                      3 repos             █░░░░░░░░░░�
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/ikp-773)](https://www.abhijithkp.me)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
